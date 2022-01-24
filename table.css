@@ -1,0 +1,25 @@
+body{background-color: black;}
+h1{
+    text-align: center;
+    color: white;
+}
+
+table {
+   
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  th{
+      background-color: orange;
+    }
+  th, td {
+    
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid orange;
+    color: white;
+  }
+  tr:hover {
+      background-color: orange;
+    }
